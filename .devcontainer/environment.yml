@@ -1,0 +1,13 @@
+name: llm
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - transformers
+  - pytorch
+  - torchvision
+  - torchaudio
+  - ipykernel
+  - faiss
+  - sentence-transformers

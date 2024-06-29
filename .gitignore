@@ -1,0 +1,4 @@
+.env
+sketch
+__pycache__
+.DS_Store

@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "TABLA"
+    ],
+    "input_types": {},
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "La siguiente TABLA representa el retorno acumulado anual de activos financieros.\n\nTABLA:\n\n{TABLA}\n\nPor favor, analize y explique el por qu\u00e9 de los valores m\u00e1s significativos, tanto positivos como negativos, en base a noticias.\n\nProporcione el enlace a las noticias que respaldan su an\u00e1lisis.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
